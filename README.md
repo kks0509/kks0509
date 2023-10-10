@@ -1,6 +1,6 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Koo's%20Website&fontSize=90)
-
+<div align="center">
+ 
 ####  :wave: Welcome my github profile!
 
  <br/>
