@@ -16,6 +16,6 @@
 #### 📚Study log📚
   <br/>
   
-![kks0509's github stats](https://github-readme-stats.vercel.app/api?username=kks0509&show_icons=true)     
+![kks0509's GitHub stats](https://github-readme-stats.vercel.app/api?username=kks0509&show_icons=true&theme=dark)
   <br/>
 </div>
