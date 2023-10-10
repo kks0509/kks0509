@@ -16,10 +16,12 @@
 #### :pencil2: Study log
  
   <br/>
+ 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kks0509)](https://velog.io/@kks0509) 
 
+
+![kks0509's github stats](https://github-readme-stats.vercel.app/api?username=kks0509&show_icons=true)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks0509&count_bg=%23A9F76E&title_bg=%23000000&icon=joomla.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)             
 
 </div>
