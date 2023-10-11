@@ -2,7 +2,7 @@
 <div align="center">
  
 ##  :wave: Welcome my github profile!
-#### 😀92212702 구경섭<br/><br/>📧ks509koo@gmail.com<br/><br/>📱010-8808-5710<br/><br/>
+#### 🏫중부대학교 22학번 정보보호학과<br/><br/>😀92212702 구경섭<br/><br/>📧ks509koo@gmail.com<br/><br/>📱010-8808-5710<br/><br/>
 #### ⬇used as the main⬇
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
