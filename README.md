@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=300&section=header&text=Koo_Github&fontSize=70&fontAlignY=35&desc=Information%20Security%20Learner&descSize=20&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=300&section=header&text=Koo%20KyeongSeop&fontSize=70&fontAlignY=35&desc=Information%20Security%20Learner&descSize=20&descAlignY=55)
 
 <div align="center">
  
