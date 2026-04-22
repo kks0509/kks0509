@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=300&section=header&text=Koo's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=300&section=header&text=Koo%20Jihun&fontSize=70&fontAlignY=35&desc=Backend%20Developer%20%7C%20Linux%20Learner&descSize=20&descAlignY=55)
+
 <div align="center">
  
 ##  :wave: Nice to meet you!
